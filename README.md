@@ -1,4 +1,5 @@
 # Evaluating the Impact and Cost-Effectiveness of Typhoid Conjugate Vaccine Schedules across Diverse Settings: a Multi-Model Comparison
+**DOI: 10.5281/zenodo.18837536**
 
 This repo contains the code files for the medRxiv publication.   
 <!-- **[medRxiv Publication:](https://doi.org/10.1371/journal.pgph.0004341)**-->
