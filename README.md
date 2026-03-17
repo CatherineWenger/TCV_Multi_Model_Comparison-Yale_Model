@@ -1,7 +1,13 @@
 # Evaluating the Impact and Cost-Effectiveness of Typhoid Conjugate Vaccine Schedules across Diverse Settings: a Multi-Model Comparison
 **DOI: 10.5281/zenodo.18837536**
 
-This repo contains the code files for the medRxiv publication.   
+This repo contains the code files for the **[medRxiv Publication:](https://doi.org/10.64898/2026.03.09.26346651)**:
+
+**Evaluating the Impact and Cost-Effectiveness of Typhoid Conjugate Vaccine Schedules Across Diverse Settings: A Multi-Model Comparison**
+
+Catherine G.C. Wenger, Kyra H. Grantz, Tigist F. Menkir, Alina M. Muellenmeister, Zeaan Pithawala, Raymond Hutubessy, Vittal Mogasale, Alicia N.M. Kraay, Nick Scott, Romesh G. Abeysuriya, Jason R. Andrews, Jillian Gauld, Nathan C. Lo, Virginia E. Pitzer
+
+medRxiv 2026.03.09.26346651; doi: https://doi.org/10.64898/2026.03.09.26346651
 <!-- **[medRxiv Publication:](https://doi.org/10.1371/journal.pgph.0004341)**-->
 
 <!-- add medRxiv citation here -->
